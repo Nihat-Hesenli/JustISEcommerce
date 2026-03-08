@@ -1,0 +1,73 @@
+
+
+
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 17 Pro 256GB COSMIC ORANGE",
+        "price": 3089.99,
+        "image": "/images/ProductPhoto-1.webp" 
+    },
+    {
+        "id": 2,
+        "name": "Xiaomi Redmi A5 4GB/128GB BLUE",
+        "price": 184.99 ,
+        "image": "/images/ProductPhoto-2.webp"
+
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy S26 Ultra 12GB/256GB Cobalt Violet (S948)",
+        "price": 2889.99,
+        "image": "/images/ProductPhoto-3.webp"
+
+
+
+
+    },
+    {
+
+        "id": 4,
+        "name": "Simsiz qulaqlıq Apple AirPods Pro 3 (MFHP4ZE/A)",
+        "price": 589.99,
+        "image": "/images/ProductPhoto-4.webp"
+    },
+    {
+
+
+        "id": 5,
+        "name": "Simsiz qulaqlıq AirPods Max - Space Gray, Model A2096 (MGYH3RU/A)",
+        "price": 1299.99,
+        "image": "/images/ProductPhoto-5.webp"
+    },
+    {
+        "id": 6,
+        "name": "Televizor Samsung Neo QLED QE65QN90FAUXRU",
+        "price": 4799.99,
+        "image": "/images/ProductPhoto-6.webp"
+    },
+    {
+
+
+        "id": 7,
+        "name": "Fen Rowenta CV5713 Elite 2200W Qara (1830008455)",
+        "price": 39.99 ,
+        "image": "/images/ProductPhoto-7.webp"
+    },
+    {
+
+        "id": 8,
+        "name": "Paltaryuyan maşın LG F2Y1HYP6J.AMBPMER",
+        "price": 799.99 ,
+        "image": "/images/ProductPhoto-8.webp"
+    }
+
+    
+
+
+
+
+
+
+
+]
